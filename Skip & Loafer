@@ -1,0 +1,19 @@
+{
+  "title": "<Skip to Loafer>",
+  "description": "<The critically acclaimed romantic comedy about a country girl chasing her dreams in Tokyo!
+
+Mitsumi is bound for high school in Tokyo! She’s got book smarts, but this small-town girl is about to find out she’s massively unprepared for the social norms of big city high schoolers.>",
+  "artist": "<Misaki Takamatsu>",
+  "author": "<Misaki Takamatsu>",
+  "cover": "<https://imgur.com/a/QHOqmJn>",
+  "chapters": {
+    "<32>": {
+      "title": "<Snipping Sixteen>",
+      "volume": "<5>",
+      "groups": {
+        "<Skip & Loafer Scans>": "/proxy/api/imgur/chapter/<n5rorIc>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
