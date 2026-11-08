@@ -127,7 +127,7 @@
     },
     "79": {
       "title": "A Bright Day in Early Spring",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1777404338",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/qb4zq3al54j"
@@ -135,7 +135,7 @@
     },
     "80": {
       "title": "Signs of a Broken Heart",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1780173611",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/ljyqbzvaoy2"
@@ -143,7 +143,7 @@
     },
     "81": {
       "title": "Head Over Heels",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1783351771",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/9p4noj2d57n"
@@ -151,7 +151,7 @@
     },
     "80.1": {
       "title": "Skip and Loafer: Bureacracy Edition",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1783351647",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/xny8n5zkwyb"
@@ -159,7 +159,7 @@
     },
     "82": {
       "title": "Leisurely Spring Break",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1785867864",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/bp45bpeb245"
@@ -167,10 +167,18 @@
     },
     "83": {
       "title": "Comfortable Friend",
-      "volume": "13",
+      "volume": "14",
       "last_updated": "1788287815",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/dl7pop9384o"
+      }
+       },
+    "84": {
+      "title": "Rippling Final Year",
+      "volume": "15",
+      "last_updated": "1794165356",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/ljyqjnqnn72"
       }
     }
   }
